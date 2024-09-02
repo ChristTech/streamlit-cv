@@ -8,7 +8,7 @@
         <div class="little-card card">
         </div>
         <div class="big-card card">
-        <a id="link" href="https://stackoverflow.com/users/17506736/adebisi-victor" class="fill-div"></a>
+        <a id="link" href="https://christtech.mystrikingly.com" class="fill-div"></a>
         </div>
         <div class="little-card card">
         </div>
