@@ -67,7 +67,7 @@
 }
 
 .big-card:nth-child(8) {
-    background-image: url("https://raw.githubusercontent.com/TomJohnH/streamlit-cv/main/images/image1.png");
+    background-image: url("https://github.com/ChristTech/streamlit-cv/blob/main/images/image1.png");
     background-size: contain;
     transform: translate(10%, 3%) rotate(5deg);
 }
